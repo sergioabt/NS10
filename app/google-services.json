@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518741473089",
+    "project_id": "firebase-ns10"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518741473089:android:ffe4f7b7cbac7b74",
+        "android_client_info": {
+          "package_name": "com.sergiobt.ns10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518741473089-g1lj6n1o61umkai46pdk2n9abi8v8pjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sergiobt.ns10",
+            "certificate_hash": "06fb755ee69c0ae596fa7f72623f70a439ff4cc5"
+          }
+        },
+        {
+          "client_id": "518741473089-vfrqg15hjoatccmdl2teuhhdkunlnqr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIzg7fR0lISMtTjHWnhRdubSYBPxNyA0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,60 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.sergiobt.ns10.GeneralFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Requisitos para donar sangre \n
+
+•	Ser mayor de 18 y menor de 65 años de edad  y portar el documento de identidad (cédula de ciudadanía o extranjería). \n
+•	Pesar más de 50Kg y registrar un Índice de Masa Corporal (IMC) mayor de 19. \n
+•	Desde la última donación esperar por lo menos 4 meses. \n
+•	No haber padecido de enfermedades de transmisión sexual o sospechar ser portador de alguna.\n
+•	No haber padecido de cáncer, ni tener enfermedades del corazón o los pulmones \n
+•	No haber tenido malaria/paludismo, leishmaniasis o enfermedad de Chagas \n
+•	No haber sido sometido a cirugías, transfusiones, tatuajes o piercing en los últimos 12 meses. \n
+•	No haber sido sometido a tratamientos odontológicos en los últimos 7 días. \n
+•	No padecer de infecciones o estar en tratamiento con antibióticos, antiparasitarios o antivirales. \n
+•	Se recomienda haber consumido algún alimento antes de la donación. \n
+
+Beneficios de la donación de sangre \n
+
+Además de la satisfacción personal de salvar la vida de muchos pacientes, algunos estudios han sugerido que la donación de sangre, realizada de forma regular y sostenida, podría reducir el riesgo de enfermedades cardiovasculares y de diabetes por otra parte aunque los efectos en salud de la donación no han podido ser concretamente definidos, los bancos de sangre también contribuimos desde otro escenario. Durante la valoración de nuestros donantes detectamos con cierta frecuencia condiciones como hipertensión, arritmias cardiacas y anemia, que los donantes desconocían padecer. Ocasionalmente esta detección resulta ser temprana en el curso de la patología, lo que permite además tratamientos más oportunos. \n
+¿Cómo me debo preparar para donar sangre? \n
+Duerma bien la noche anterior a la donación, acuda tras haber ingerido una comida pobre en  grasas, – nunca en ayunas-  y evite fumar desde al menos una hora antes de la donación.
+Si tienen tendencia a tener niveles bajos de hierro, puede prepararse tomando alimentos ricos, como carnes rojas, hígado, pescado y huevos. También las legumbres y frutos secos son ricos en este nutriente. \n
+
+Preguntas frecuentes \n
+•	¿Puedo donar si estoy tomando medicación o he tenido alguna enfermedad? \n
+Es posible donar tomando la mayoría de los medicamentos y tras haber sufrido algunas enfermedades. En cualquier caso esa información le será aclarada en el momento de la entrevista médica. \n
+•	Consentimiento informado \n
+El Consentimiento informado es uno de los requisitos legales más importantes de la donación de sangre. Al rellenar la hoja de entrevista y firmarla, usted autoriza a nuestro Centro para la realización del proceso de donación tras haber sido informado de las características del mismo. En el reverso de la hoja de entrevista hay información detallada sobre este aspecto legal.
+•	¿Cómo me voy a sentir tras la donación? \n
+Tras la donación es necesario mantenerse en reposo durante unos 10-15 minutos. Debe tomar abundantes líquidos y evitar fumar y beber alcohol en las dos horas siguientes a la donación. Debe evitar ambientes calurosos o la realización de deportes o actividades extenuantes al menos hasta el día siguiente \n
+Tras la donación, la mayoría de los donantes se encuentran perfectamente, sin embargo es necesario que conozca algunos de los efectos adversos que pueden ocurrir durante  o tras la donación. \n
+	Mareo o reacción vasovagal. \n
+Es un problema poco frecuente, de fácil recuperación, es más frecuente en la 1ª donación. Se acompaña de bajada de la tensión, y se previene con la toma abundante de líquidos antes de la donación. \n
+
+
+
+
+	¿Puedo contraer alguna enfermedad donando sangre? \n
+
+NO. La donación de sangre se realiza utilizando materiales estériles  de un único uso, por lo que no es posible contraer infecciones mientras dona. \n
+
+No olvides… \n
+
+	Tu donación es imprescindible para la curación de muchas personas. \n
+	Cuando donas, tres personas se benefician de tu donación. \n
+	Recuerda que tu donación es necesaria a lo largo de todo el año. Se puede donar cada 2 meses, con un máximo de 4 donaciones al año los hombres y 3 las mujeres. \n
+	Planifica tus donaciones cada año de manera que se repartan cada 3 o 4 meses. \n
+	Procura donar antes de los periodos vacacionales. En estos periodos las donaciones se reducen drásticamente, mientras que las necesidades se mantienen. \n
+MUCHAS GRACIAS POR DONAR. TU SANGRE SALVA VIDAS
+" />
+
+</ScrollView>
